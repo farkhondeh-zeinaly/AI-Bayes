@@ -1,0 +1,10 @@
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\bin\Debug\BayesPapers.exe.config
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\bin\Debug\BayesPapers.exe
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\bin\Debug\BayesPapers.pdb
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.FormMain.resources
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.Properties.Resources.resources
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.csproj.GenerateResource.Cache
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.exe
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.pdb
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.csprojResolveAssemblyReference.cache
+E:\Projects\Farkhondeh Projects\BayesPapers\BayesPapers\obj\x86\Debug\BayesPapers.csproj.CoreCompileInputs.cache
